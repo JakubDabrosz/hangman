@@ -39,12 +39,6 @@ else:
 
 
 
-
-#while len(pics.hm) > letter_counter: 
-#	guess = input('Guess a word ').lower()
-
-#	print (display)
-
 	
 
 
